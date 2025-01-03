@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Maths and Data science enthusiast with a bit of interest in web-dev.<br>
+Hi, I am Sanskar Ranjan. I am a final year computer science student at IIITD. I am also a Maths and Data science enthusiast with a  interest in web-dev.<br>
 
 
 ## 🌐 Socials:
